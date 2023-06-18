@@ -1,0 +1,5 @@
+name: SakuraAuction
+main: me.yungcemic.sakuraauction
+version: ${project.version}
+api-version: 1.20
+author: yungcemic
